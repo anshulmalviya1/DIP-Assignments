@@ -1,7 +1,7 @@
 # DIP-Assignment-1
 
 
-[Run it](https://replit.com/@7709447767/Assignment-1#main.py) 
+[Click to Run](https://replit.com/@7709447767/Assignment-1#main.py) 
 
 
 Input image 

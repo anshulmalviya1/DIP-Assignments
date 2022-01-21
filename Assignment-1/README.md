@@ -6,11 +6,11 @@
 
 Input image 
 
-![Input image](/Input_img.jpeg)
+![Input image](/Assignment-1/Input_img.jpeg)
 
 Output image
 
-![Iutput image](/Output_img.png)
+![Iutput image](/Assignment-1/Output_img.png)
 
 
 

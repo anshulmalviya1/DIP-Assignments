@@ -1,17 +1,17 @@
 import cv2
 import numpy as np
 
-orginal = cv2.imread('Input_img.jpeg')
+original = cv2.imread('Input_img.jpeg')
 
-imageHeight = len(orginal)
-imageWidth = len(orginal[0])
+imageHeight = len(original)
+imageWidth = len(original[0])
 
 gray = np.zeros((imageHeight, imageWidth), dtype=np.uint8)
 
 
 for i in range(0, imageHeight):
     for j in range(0, imageWidth):
-        gray[i][j] = int(orginal[i][j][0] * 0.2126 + orginal[i][j][1] * 0.7152 + orginal[i][j][2] * 0.0722)
+        gray[i][j] = int(original[i][j][0] * 0.2126 + original[i][j][1] * 0.7152 + original[i][j][2] * 0.0722)
 
 binary = np.zeros((imageHeight, imageWidth), dtype=np.uint8)
 
@@ -26,9 +26,9 @@ rgb = np.zeros((imageHeight, imageWidth, 3), dtype=np.uint8)
 
 for i in range(0, imageHeight):
     for j in range(0, imageWidth):
-        rgb[i][j] = orginal[i][j] + np.uint(20)
+        rgb[i][j] = original[i][j] + np.uint(20)
 
-cv2.imshow('Orginal', orginal)
+cv2.imshow('Orginal', original)
 cv2.imshow('Gray', gray)              
 cv2.imshow('Binary', binary)             
 cv2.imshow('RGB + 20', rgb)         

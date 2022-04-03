@@ -4,8 +4,11 @@ Task3-->Add gray image and image with pixels either 1 or 0 and add 20 to gray sc
 Performe the task and display the output images.
 
 
-##Input Image:
+**Input Image:
 ![Input Image](./img.jpg)
 
-##Output Image:
+
+
+
+**Output Image:
 ![Input Image](./Output_img.png)

@@ -5,10 +5,10 @@ Performe the task and display the output images.
 
 
 **Input Image:
-![Input Image](./img.jpg)
+![](./img.jpg)
 
 
 
 
 **Output Image:
-![Input Image](./Output_img.png)
+![](./Output_img.png)

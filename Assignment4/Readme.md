@@ -1,4 +1,4 @@
-Task--> read a color image and display its reddish,greenisg and bluish image.  <br />
+Task--> read a color image and display its reddish, greenisg and bluish image.  <br />
 
 **Input Image :**
 ![](img.jpg)

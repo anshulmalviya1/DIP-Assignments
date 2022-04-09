@@ -1,6 +1,5 @@
 
-# In[1]
-# Show image
+
 import cv2
 import numpy as np
  

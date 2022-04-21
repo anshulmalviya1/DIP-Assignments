@@ -1,8 +1,7 @@
 Task--> Read a color image and perform bit slicing for 8 planes on it.  <br />
-**Input Image :**
+**Input Image :**<br />
 ![](img.jpeg)
 <br />
-<br />
-**Output Image :**
+**Output Image :**<br />
 ![](output_img.png)
 

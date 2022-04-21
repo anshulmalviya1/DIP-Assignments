@@ -1,0 +1,1 @@
+Task--> Read a color image and perform Image Algorithm on it.

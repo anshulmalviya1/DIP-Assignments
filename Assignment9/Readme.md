@@ -1,9 +1,9 @@
 Task--> Read a color image and perform Histogram Stretching on it.  <br />
 
-**Input Image :**
+**Input Image :**<br />
 ![](img.jpeg)
 <br />
-<br />
-**Output Image :**
+
+**Output Image :**<br />
 ![](img1.png)
 

@@ -1,6 +1,4 @@
-Task--> Read a color image and perform bit slicing for 8 planes on it.  
-<br />
-
+Task--> Read a color image and perform bit slicing for 8 planes on it.  <br />
 **Input Image :**
 ![](img.jpeg)
 <br />

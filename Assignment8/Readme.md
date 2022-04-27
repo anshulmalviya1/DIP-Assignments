@@ -1,1 +1,1 @@
-Task--> Read a color image and perform Image Algorithm on it.
+Task--> Read a color image and perform Guassian filter on it.
